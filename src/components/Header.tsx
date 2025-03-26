@@ -13,7 +13,7 @@ function Header() {
           <Link href="/" className="hover:text-gray-800">Нүүр хуудас</Link>
         </li>
         <li>
-          <Link href="/"  className="hover:text-gray-800">Кино сан</Link>
+          <Link href="/movielist"  className="hover:text-gray-800">Кино сан</Link>
         </li>
         <li>
           <Link href="/"  className="hover:text-gray-800">ТВ шоу</Link>
