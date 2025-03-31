@@ -5,14 +5,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+API_URL_WITH_KEY= https://api.themoviedb.org/3/movie/popular?api_key=2ea05c2f444f6fe57492711ba6641efa
+IMAGE_PATH=https://image.tmdb.org/t/p/original
 ```
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
